@@ -1,0 +1,11 @@
+button.nav-search {
+  background-color: transparent;
+}
+
+a.nav-item.active {
+  border-color: #a8eb12;
+}
+
+.dark-bg {
+  background-color: rgba(0, 0, 0, 0.116);
+}
